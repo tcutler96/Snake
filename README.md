@@ -1,5 +1,7 @@
 # Snake Game
-Recreation of the classic snake game within Python using PyGame. Features custom designed intro scene and main menu, animations, music/ sound effects and also the ability to change many options relating to gameplay and visuals.
+This is a recreation of the classic snake game made with Python and PyGame. The goal is to eat food, grow the snake, and reach a score of 25.
+
+The game features a full menu with a list of options relating to gameplay and visuals. You can change things like the look of the snake and its food, how many times the snake can wrap around the screen, the amount of particle effects, and also audio volume.
 
 # Demo
 ![Demo](demo/demo.gif)
